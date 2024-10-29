@@ -122,6 +122,7 @@ const Projects: React.FC = () => {
       technologies: ['Python', 'TensorFlow', 'Docker', 'AWS', 'GitHub Actions', 'DVC'],
       imageUrl: '/images/projects/chicken-disease.jpg', // Leading slash added
       githubUrl: 'https://github.com/Sankalpa0011/CNN-Chicken-Disease-Classification', // Fixed typo
+      
     },
     {
       title: 'End-to-End Text Summarizer with AWS',
