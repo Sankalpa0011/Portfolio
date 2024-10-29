@@ -23,7 +23,7 @@ const Skills = () => {
 
   const devOpsSkills = [
     { name: 'Docker', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg' },
-    { name: 'AWS', icon: 'https://jmp.sh/jXteqUlB' },
+    { name: 'AWS', icon: 'https://github.com/Sankalpa0011/Images-And-SVGs-Hosting/blob/main/aws-icon.svg' },
     { name: 'Jenkins', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg' },
     { name: 'Git', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' },
   ];
