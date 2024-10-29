@@ -8,7 +8,7 @@ const Projects: React.FC = () => {
       title: 'End-to-End Chicken Disease Classification',
       description: 'Developed a CNN-based deep learning model to classify chicken diseases from images. Managed the workflow, including configuration setup, pipeline creation, and version control with DVC. Automated deployment on AWS and Azure through CI/CD using GitHub Actions.',
       technologies: ['Python', 'TensorFlow', 'Docker', 'AWS', 'GitHub Actions', 'DVC'],
-      imageUrl: 'projects/images/projects/chicken-disease.jpg',
+      imageUrl: 'images/projects/chicken-disease.jpg',
       githubUrl: 'hhttps://github.com/Sankalpa0011/CNN-Chicken-Disease-Classification',
     },
     {
