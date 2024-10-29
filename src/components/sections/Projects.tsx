@@ -128,7 +128,7 @@ const Projects: React.FC = () => {
       title: 'End-to-End Text Summarizer with AWS',
       description: 'Developed a text summarization pipeline using NLP techniques. The project included configuration management, pipeline creation, and deployment automation via CI/CD using GitHub Actions. Dockerized the application and deployed it on AWS EC2.',
       technologies: ['Python', 'NLP', 'AWS', 'Docker', 'GitHub Actions'],
-      imageUrl: '/images/projects/text-summarizer.jpg', // Leading slash added
+      imageUrl: 'images/projects/text-summarizer.jpg', // Leading slash added
       githubUrl: 'https://github.com/Sankalpa0011/NLP-Text-Summarizer',
     },
     {
