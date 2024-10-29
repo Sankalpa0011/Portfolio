@@ -9,7 +9,7 @@
 //       description: 'Developed a CNN-based deep learning model to classify chicken diseases from images. Managed the workflow, including configuration setup, pipeline creation, and version control with DVC. Automated deployment on AWS and Azure through CI/CD using GitHub Actions.',
 //       technologies: ['Python', 'TensorFlow', 'Docker', 'AWS', 'GitHub Actions', 'DVC'],
 //       imageUrl: 'images/projects/chicken-disease.jpg',
-//       githubUrl: 'hhttps://github.com/Sankalpa0011/CNN-Chicken-Disease-Classification',
+//       githubUrl: 'https://github.com/Sankalpa0011/CNN-Chicken-Disease-Classification',
 //     },
 //     {
 //       title: 'End-to-End Text Summarizer with AWS',
@@ -121,7 +121,7 @@ const Projects: React.FC = () => {
       description: 'Developed a CNN-based deep learning model to classify chicken diseases from images. Managed the workflow, including configuration setup, pipeline creation, and version control with DVC. Automated deployment on AWS and Azure through CI/CD using GitHub Actions.',
       technologies: ['Python', 'TensorFlow', 'Docker', 'AWS', 'GitHub Actions', 'DVC'],
       imageUrl: '/images/projects/chicken-disease.jpg', // Leading slash added
-      githubUrl: 'https://github.com/Sankalpa0011/CNN-Chicken-Disease-Classification', // Fixed typo
+      githubUrl: 'https://github.com/Sankalpa0011/CNN-Chicken-Disease-Classification', 
       
     },
     {
