@@ -1,5 +1,3 @@
-
-import React from 'react';
 import SectionTitle from '../ui/SectionTitle';
 import SkillGrid from '../SkillGrid';
 
