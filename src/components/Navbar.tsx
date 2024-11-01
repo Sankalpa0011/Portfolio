@@ -28,7 +28,7 @@ const Navbar = () => {
         <div className="flex items-center justify-between h-16">
           <div className="flex-shrink-0">
             <a href="#" className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-500">
-              KS
+              <img src="/images/profile-round.png" alt="Logo" className="w-6 h-6 inline" />
             </a>
           </div>
           
