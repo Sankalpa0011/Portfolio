@@ -16,6 +16,9 @@ const App: React.FC = () => {
       <Skills />
       <Projects />
       <Contact />
+      <footer className="bg-gray-900/50 py-6 text-center">
+        <p className="text-gray-400">© 2024 All rights reserved</p>
+      </footer>
     </div>
   );
 };
